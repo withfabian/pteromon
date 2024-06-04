@@ -1,0 +1,14 @@
+{
+  "name": "pteromon",
+  "version": "0.0.1",
+  "description": "pteromon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
